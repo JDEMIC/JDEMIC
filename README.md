@@ -4,7 +4,7 @@ Coffee is my favorite beverage thats been my best friend since the 8th grade and
 
 - 👀 I’m interested in Software Development, Game Development, Web Devopment and hope to take on a bunch of new projects during my journey to becoming a professional Software Developer.
 
-- 🌱 I’m currently learning nothing fancy. Currently getting used to HTML and CSS. Challenging myself to memorize as many tags I can to be more efficient in coding.
+- 🌱 I’m currently learning nothing fancy. Currently getting used to HTML and CSS. Soon will be learning JavaScript!
 
 - 📫 You can reach me on Discord @JDEMIC#6878 
 
